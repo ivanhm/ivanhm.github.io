@@ -1,0 +1,59 @@
+/*#storyID {
+  color: red;
+  width: 500px;
+  border: 5px solid black;
+}
+
+.linkID 
+{
+color: green;
+}
+
+a:hover
+{
+color: cyan;
+}*/
+
+
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Lobster', cursive;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li, a {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #99CCFF;
+}
+
+
+body {
+  width: 1200px;
+  margin: 20px auto;
+  background-color: #FF9900;
+  padding: 0 20px 0 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
